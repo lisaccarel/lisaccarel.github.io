@@ -1,0 +1,13 @@
+h1 {
+  color: MediumVioletRed;
+}
+h2 {
+  color: rgb(189, 44, 44);
+}
+h3 {
+  color: #800080;
+}
+
+ol {
+  list-style-type: lower-alpha;
+}
